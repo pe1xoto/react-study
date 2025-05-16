@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Teclado Mecânico Razer Huntsman Elite",
+      "price": 1299.9
+    },
+    {
+      "id": "2",
+      "name": "Mouse Gamer Logitech G Pro X Superlight",
+      "price": 899.99
+    },
+    {
+      "id": "3",
+      "name": "Monitor Gamer ASUS ROG Swift 360Hz 24.5”",
+      "price": 4699
+    },
+    {
+      "id": "4",
+      "name": "Headset SteelSeries Arctis Nova Pro Wireless",
+      "price": 1999.99
+    },
+    {
+      "id": "5",
+      "name": "Mousepad Gamer Corsair MM1000 Qi Wireless",
+      "price": 499.9
+    },
+    {
+      "id": "6",
+      "name": "Cadeira Gamer Secretlab Titan Evo 2022",
+      "price": 3499
+    },
+    {
+      "id": "7",
+      "name": "Webcam Logitech BRIO 4K",
+      "price": 1299
+    },
+    {
+      "id": "8",
+      "name": "Microfone Elgato Wave:3",
+      "price": 899.9
+    },
+    {
+      "id": "9",
+      "name": "Controlador SCUF Instinct Pro (Xbox/PC)",
+      "price": 1699.99
+    },
+    {
+      "id": "10",
+      "name": "Placa de captura Elgato 4K60 Pro MK.2",
+      "price": 1899.9
+    },
+    {
+      "id": "e73a",
+      "name": "Stream Deck Elgato Neo 15 teclas programáveis",
+      "price": "899.9"
+    },
+    {
+      "id": "8f34",
+      "name": "Headset Audeze LCD-GX (Áudio Profissional para Games)",
+      "price": "5499.99"
+    }
+  ]
+}
